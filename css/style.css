@@ -1,0 +1,605 @@
+
+  html, body {
+        max-width: 100%;
+        overflow-x: hidden;
+            font-family: 'Raleway', sans-serif;
+
+
+
+
+    }
+
+.content{
+  width: 1600px;
+  position: relative;
+  display: block;
+  margin-left: auto;
+    margin-right: auto 
+
+}
+/* Hero Start*/
+
+.hero{
+	top: 0px;
+	width: 1600px;
+    height: auto;
+
+ 
+ }
+
+p{
+
+	font-family: 'Raleway', sans-serif;
+}
+
+
+
+#title{
+
+font-family: 'Pacifico', cursive;
+  position: absolute;
+   top: 145px;
+    left: 850px;
+      transform: translate(-50%, -50%);
+    font-size: 64px;
+    font-weight: lighter;
+}
+
+#title2{
+  position: absolute;
+    top: 250px;
+    left: 800px;
+      transform: translate(-50%, -50%);
+    font-size: 36px;
+
+}
+
+
+#focusimg{
+height: 70px;
+width: 70px;
+ position: absolute;
+    top: 110px;
+    left: 680px;
+background-image: url('../img/focus.png');
+background-repeat: no-repeat;
+background-attachment: relative; 
+}
+
+#down-arrow{
+height: 70px;
+width: 70px;
+ position: absolute;
+    top: 340px;
+    left: 775px;
+background-image: url('../img/down-arrow.png');
+background-repeat: no-repeat;
+background-attachment: relative; 
+}
+
+
+
+#iphone{
+position: absolute;
+    top: 410px;
+    left: 570px;
+
+    width: 100%;
+height: 1200px;
+background-image: url('../img/iphone.png');
+background-repeat: no-repeat;
+
+}
+
+#iphone-spot1{
+position: absolute;
+    top: 290px;
+    left: 150px;
+
+    width: 100%;
+height: 30px;
+background-image: url('../img/white-dot.png');
+background-repeat: no-repeat;
+
+}
+
+
+#iphone-spot2{
+position: absolute;
+    top: 500px;
+    left: 150px;
+
+    width: 100%;
+height: 30px;
+background-image: url('../img/white-dot.png');
+background-repeat: no-repeat;
+
+}
+
+#iphone-spot3{
+position: absolute;
+    top: 180px;
+    left: 260px;
+
+    width: 100%;
+height: 30px;
+background-image: url('../img/white-dot.png');
+background-repeat: no-repeat;
+
+}
+
+#iphone-spot4{
+position: absolute;
+    top: 400px;
+    left: 280px;
+
+    width: 100%;
+height: 40px;
+background-image: url('../img/black-dot.png');
+background-repeat: no-repeat;
+
+}
+
+#iphone-line{
+position: absolute;
+    top: 425px;
+    left: 295px;
+
+    width: 100%;
+height: 300px;
+background-image: url('../img/angled-line.png');
+background-repeat: no-repeat;
+
+}
+
+
+#iphone-cursor{
+position: absolute;
+    top: 416px;
+    left: 293px;
+
+    width: 100%;
+height: 40px;
+background-image: url('../img/cursor.png');
+background-repeat: no-repeat;
+
+}
+
+
+
+#iphone-content1{
+position: absolute;
+    top: 757px;
+    left: 275px;
+    width: 320px;
+height: 40px;
+
+font-family: 'Raleway', sans-serif;
+  position: absolute;
+ 
+    
+
+}
+
+#iphone-content2{
+position: absolute;
+    top: 930px;
+    left: 275px;
+
+    width: 320px;
+height: 40px;
+
+font-family: 'Raleway', sans-serif;
+
+ 
+    
+
+}
+
+#iphone-content3{
+position: absolute;
+    top: 757px;
+    left: 1030px;
+
+    width: 320px;
+height: 40px;
+
+font-family: 'Raleway', sans-serif;
+
+    
+
+}
+
+#iphone-content4{
+position: absolute;
+    top: 930px;
+    left: 1030px;
+
+    width: 320px;
+height: 40px;
+
+font-family: 'Raleway', sans-serif;
+
+ 
+    
+
+}
+
+/* Hero end */
+
+
+
+
+.container{
+	position: relative;
+
+}
+
+/* Video Start */
+
+.videobg{
+	margin-top: 495px;
+	top: 1500px;
+	width: 1600px;
+    height: 410px;
+    background-color: #e3e3e3;
+    background-position: 1500px, 0px;
+
+
+ }
+
+#video-content{
+    position: absolute;
+    top: 55px;
+    left: 210px;
+    width: 560px;
+    height: 40px;
+    font-family: 'Raleway', sans-serif;
+
+ 
+}
+
+h2{
+
+font-size: 22px;
+
+}
+ p.videocontent{
+   position: absolute;
+   top: 50px;
+   font-size: 16px; 
+   line-height: 24px; 
+   color: #848484;
+
+ }
+
+
+
+
+
+#logo1{
+height: 70px;
+width: 70px;
+ position: absolute;
+    top: 220px;
+    left: 210px;
+background-image: url('../img/apple.png');
+background-repeat: no-repeat;
+background-attachment: relative; 
+}
+
+#logo2{
+height: 70px;
+width: 70px;
+ position: absolute;
+    top: 220px;
+    left: 297px;
+background-image: url('../img/android.png');
+background-repeat: no-repeat;
+background-attachment: relative; 
+}
+
+#logo3{
+height: 70px;
+width: 70px;
+ position: absolute;
+    top: 220px;
+    left: 384px;
+background-image: url('../img/windows.png');
+background-repeat: no-repeat;
+background-attachment: relative; 
+}
+
+
+#logo-cursor{
+height: 70px;
+width: 70px;
+ position: absolute;
+    top: 262px;
+    left: 410px;
+background-image: url('../img/cursor.png');
+background-repeat: no-repeat;
+background-attachment: relative; 
+}
+
+
+#video{
+position: absolute;
+    top: 55px;
+    left: 883px;
+
+    width: 100%;
+height: 400px;
+background-image: url('../img/video-image.png');
+background-repeat: no-repeat;
+
+}
+
+
+#video-play{
+position: absolute;
+    top: 243px;
+    left: 18px;
+
+    width: 100%;
+height: 100px;
+background-image: url('../img/play.png');
+background-repeat: no-repeat;
+
+}
+
+
+#video-playbar{
+position: absolute;
+    top: 243px;
+    left: 105px;
+
+    width: 100%;
+height: 100px;
+background-image: url('../img/video-play-bar.png');
+background-repeat: no-repeat;
+
+}
+
+/* Video end */
+/* Blog start */
+
+.blog{
+
+}
+
+
+#blog-content{
+
+    position: absolute;
+    top: 463px;
+    left: 375px;
+    width: 100%;
+    height: 40px;
+    font-family: 'Raleway', sans-serif;
+
+ 
+ }
+
+#blog-content2{
+    position: absolute;
+    top: 510px;
+    left: 727px;
+    width: 100%;
+    height: 40px;
+    font-family: 'helvetica neue', sans-serif; 
+    font-size: 14px; 
+    line-height: 24px; 
+    color: #000;
+
+ 
+ }
+
+
+#people{
+    margin-top: 170px;
+	width: 1600px;
+    height: 310px;
+    background-image: url('../img/people.png');
+ 
+  
+}
+
+#people-active{
+position: absolute;
+    top: 660px;
+    left: 914px;
+	width: 80px;
+    height: 80px;
+    background-image: url('../img/active-person.png');
+   background-repeat: no-repeat;
+
+}
+
+
+#people-active-cursor{
+height: 70px;
+width: 70px;
+ position: absolute;
+    top: 720px;
+    left: 925px;
+background-image: url('../img/cursor.png');
+background-repeat: no-repeat;
+background-attachment: relative; 
+   
+
+}
+
+
+/* Blog end */
+/* SNS Start */
+
+.sns{
+
+	width: 1600px;
+    height: 235px;
+    background-color: #fff;
+
+}
+
+#sns-content1{
+
+    position: absolute;
+    top: 945px;
+    left: 660px;
+    width: 100%;
+    height: 40px;
+
+font-family: 'Raleway', sans-serif;
+
+
+
+}
+
+#sns-content2{
+
+position: absolute;
+    top: 985px;
+    left: 530px;
+
+    width: 100%;
+height: 40px;
+
+font-family: 'Raleway', sans-serif;
+
+
+
+}
+
+#sns-logo1{
+height: 50px;
+width: 50px;
+ position: absolute;
+    top: 1030px;
+    left: 655px;
+    
+background-image: url('../img/twitter.png');
+background-repeat: no-repeat;
+background-attachment: relative; 
+}
+
+
+#sns-logo2{
+height: 50px;
+width: 50px;
+ position: absolute;
+    top: 1030px;
+    left: 702px;
+background-image: url('../img/facebook.png');
+background-repeat: no-repeat;
+background-attachment: relative; 
+}
+
+#sns-logo3{
+height: 50px;
+width: 50px;
+ position: absolute;
+    top: 1030px;
+    left: 749px;
+background-image: url('../img/pinterest.png');
+background-repeat: no-repeat;
+background-attachment: relative; 
+}
+#sns-logo4{
+height: 50px;
+width: 50px;
+ position: absolute;
+    top: 1030px;
+    left: 796px;
+background-image: url('../img/google.png');
+background-repeat: no-repeat;
+background-attachment: relative; 
+}
+
+#sns-logo5{
+height: 50px;
+width: 50px;
+ position: absolute;
+    top: 1030px;
+    left: 843px;
+background-image: url('../img/linkedin.png');
+background-repeat: no-repeat;
+background-attachment: relative; 
+}
+
+#sns-logo6{
+height: 50px;
+width: 50px;
+ position: absolute;
+    top: 1030px;
+    left: 890px;
+background-image: url('../img/youtube.png');
+background-repeat: no-repeat;
+background-attachment: relative; 
+}
+
+
+#sns-cursor{
+height: 70px;
+width: 70px;
+ position: absolute;
+    top: 1051px;
+    left: 764px;
+background-image: url('../img/cursor.png');
+background-repeat: no-repeat;
+background-attachment: relative; 
+}
+
+
+
+/* SNS End*/
+/* Footer Start */
+
+.footer{
+
+	width: 1600px;
+    height: 125px;
+  
+    background-color: #e3e3e3;
+
+}
+
+
+#footer-nav{
+
+position: absolute;
+    top: 1175px;
+    left: 505px;
+word-spacing: 45px;
+    width: 100%;
+height: 40px;
+
+
+
+}
+
+a:link {
+    color: #848484; 
+       text-decoration: none;
+}
+
+a:visited {
+    color: #848484;
+       text-decoration: none;
+}
+
+a:hover {
+    color: #666;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #848484;
+    text-decoration: underline;
+}
+
+
+
+/* Footer End*/
+
+
